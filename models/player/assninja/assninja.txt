@@ -1,0 +1,10 @@
+ASSNinja Clan skin by Michael Patrick Clark, aka Sigma-X. Sigmax01@aol.com
+
+Place files in the valve\models\player\assninja found in the Half Life folder.  The folder needs 
+to be named the same as the model, or it won't work right.
+
+This is my 3rd skin for Half Life, and is a modified Gordon, wearing a balc jumpsuit, with colored kneepad things, and the ass logo on front and back.  He also has these big white cartoony eyes.  he looks pretty spiffy, although I coulda worked on the shading a bit.  He's based on a drawing made entriely with sine and cosine waves, see if you can duplicate it!
+
+ASS Clan:
+www.fortunecity.com/underworld/darkforces/777/
+       We put the arse into arsenal.
