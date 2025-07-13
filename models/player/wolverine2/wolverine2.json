@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1091233302,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "77a33dca2714c907c6244d0027e84e2d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/wolverine/wolverine.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

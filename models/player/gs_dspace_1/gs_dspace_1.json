@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -137,6 +138,7 @@
 			"type": 8
 		}
 	],
+	"date": 1578749199,
 	"events": [
 		{
 			"event": 2001,
@@ -246,7 +248,11 @@
 	],
 	"id": 1414743113,
 	"md5": "99478be726600c63c44fa75a33dfd15a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Usuario\\Documents\\x\\Goldsrc WadNtools\\blackmesa_player_.",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

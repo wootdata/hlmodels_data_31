@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 15,
@@ -70,6 +71,7 @@
 			"type": 8
 		}
 	],
+	"date": 1739847616,
 	"events": [
 		{
 			"event": 5004,
@@ -207,7 +209,11 @@
 	],
 	"id": 1414743113,
 	"md5": "27afcccab3f83d5f455e31a589ab97a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/luigi/luigi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

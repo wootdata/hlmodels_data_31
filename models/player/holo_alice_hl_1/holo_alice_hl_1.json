@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1674368096,
 	"events": [
 		{
 			"event": 5011,
@@ -190,7 +192,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a3a40ebb595a410e4ccf4f747d87bdfb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "robo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
