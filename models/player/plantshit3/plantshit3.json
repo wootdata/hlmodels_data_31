@@ -1,0 +1,62 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "shrubv01_ref",
+					"polys": 25,
+					"verts": 27
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"colorable": false,
+	"controllers": [],
+	"date": 1497364811,
+	"events": [],
+	"id": 1414743113,
+	"md5": "f0f9ef98ddf7b0f982e5b4dec14acc5d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"name": "shrubv01.mdl",
+	"preview": true,
+	"readme": false,
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 101,
+			"name": "idle"
+		}
+	],
+	"size": 80592,
+	"skeleton": [
+		{
+			"name": "trunk",
+			"parent": -1
+		}, 
+		{
+			"name": "leaves",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 255,
+			"name": "trunk3.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "shrub.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}
