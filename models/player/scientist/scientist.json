@@ -180,6 +180,7 @@
 	"md5": "cb428edb1de34059a58e575b2e3ea43f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Scientist/Scientist.mdl",
 	"preview": true,
 	"readme": false,

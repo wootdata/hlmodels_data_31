@@ -175,6 +175,7 @@
 	"md5": "77a33dca2714c907c6244d0027e84e2d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/wolverine/wolverine.mdl",
 	"preview": true,
 	"readme": false,

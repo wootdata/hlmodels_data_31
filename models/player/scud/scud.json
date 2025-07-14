@@ -180,6 +180,7 @@
 	"md5": "79f8efae48b0cc58fd08de94c8c89bae",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/robo/scud.mdl",
 	"preview": true,
 	"readme": false,

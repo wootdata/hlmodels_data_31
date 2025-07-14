@@ -180,6 +180,7 @@
 	"md5": "19fc60c9aa8d9dbc58edb79c0055b92e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/jack.mdl",
 	"preview": true,
 	"readme": false,

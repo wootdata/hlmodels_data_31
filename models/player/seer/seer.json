@@ -175,6 +175,7 @@
 	"md5": "bc9075021702c36b806b7e36f652e7ed",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/seer/seer.mdl",
 	"preview": false,
 	"readme": false,

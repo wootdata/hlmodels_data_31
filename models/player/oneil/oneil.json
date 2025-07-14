@@ -175,6 +175,7 @@
 	"md5": "97daf45b9d11f80849edf7b4109955a4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/oneil/oneil.mdl",
 	"preview": true,
 	"readme": false,

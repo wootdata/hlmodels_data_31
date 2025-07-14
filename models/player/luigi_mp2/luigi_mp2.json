@@ -211,6 +211,7 @@
 	"md5": "27afcccab3f83d5f455e31a589ab97a7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/luigi/luigi.mdl",
 	"preview": true,
 	"readme": false,
