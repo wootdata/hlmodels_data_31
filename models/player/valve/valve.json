@@ -183,7 +183,7 @@
 	"modid": 2,
 	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
 	"preview": false,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
