@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stealth
+Source Model Hash : 7c94d1e623060a352df84d6265de468a
+Source Model Date : 1269963105 (2010/03/30)
+
+Ported Model Name : stealth_v1sc
+Ported Model Hash : 5ca160836f010716ad81c7fbf3eb09bf
+Ported Model Date : 1752492344 (2025/07/14)

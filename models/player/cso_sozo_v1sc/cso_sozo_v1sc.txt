@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_sozo
+Source Model Hash : 44defe69f155bd9e6dcf4ff12bf01e31
+Source Model Date : 1230999838 (2009/01/03)
+
+Ported Model Name : cso_sozo_v1sc
+Ported Model Hash : bd909266b46ab363e77d57ea3b2f174f
+Ported Model Date : 1752491556 (2025/07/14)

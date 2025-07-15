@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halo_seablue_v2
+Source Model Hash : 07a317e3f1ca72885668e88177f37256
+Source Model Date : 1583888962 (2020/03/10)
+
+Ported Model Name : halo_seablue_v2sc
+Ported Model Hash : 13938fd2a955863b80b555c877b6319e
+Ported Model Date : 1752491766 (2025/07/14)

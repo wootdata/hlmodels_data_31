@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : agent_zed2_v2
+Source Model Hash : 2c10d35d3dcb102f83d893004a66fc94
+Source Model Date : 1688939001 (2023/07/09)
+
+Ported Model Name : agent_zed2_v2sc
+Ported Model Hash : e5c143023e3c7ab0da6181e77e286556
+Ported Model Date : 1752491339 (2025/07/14)

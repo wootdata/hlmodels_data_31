@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : th_worker_sd
+Source Model Hash : c1ab8eac855366f0c2e33765f8b1135c
+Source Model Date : 1480447588 (2016/11/29)
+
+Ported Model Name : th_worker_sd_v1sc
+Ported Model Hash : 7c44fed993626c90ff8824ce81cbdc0c
+Ported Model Date : 1752492421 (2025/07/14)

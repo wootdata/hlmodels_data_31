@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : neo2
+Source Model Hash : 64b4a35b3ae7d574ea5f7096f1d5eb37
+Source Model Date : 1265631885 (2010/02/08)
+
+Ported Model Name : neo2_v1sc
+Ported Model Hash : 384a4209c8c9512438f25e16cd945395
+Ported Model Date : 1752492089 (2025/07/14)

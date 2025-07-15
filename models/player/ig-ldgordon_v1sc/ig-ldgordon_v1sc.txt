@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ig-ldgordon
+Source Model Hash : 60e49c96aaaa3238729738b17385662c
+Source Model Date : 1555769370 (2019/04/20)
+
+Ported Model Name : ig-ldgordon_v1sc
+Ported Model Hash : fd1854504e196c6eda87669c5f15b0eb
+Ported Model Date : 1752491843 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_km_karenkujo
+Source Model Hash : d05ddd2e4fa589345da0c6311b0202bb
+Source Model Date : 1586450292 (2020/04/09)
+
+Ported Model Name : 2d_km_karenkujo_v1sc
+Ported Model Hash : 4040a5ec65dfb3a6cbb6614a0dc1e3da
+Ported Model Date : 1752491314 (2025/07/14)

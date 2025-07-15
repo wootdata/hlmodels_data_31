@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : startroop
+Source Model Hash : 3453d2b5e9c52ebf78d311fc0f9bb839
+Source Model Date : 1269963016 (2010/03/30)
+
+Ported Model Name : startroop_v1sc
+Ported Model Hash : 38dacd1d21353caec88e558f5b85a833
+Ported Model Date : 1752492344 (2025/07/14)

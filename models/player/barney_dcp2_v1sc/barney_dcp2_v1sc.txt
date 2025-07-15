@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : barney_dcp2
+Source Model Hash : dae982e2c807e9a71098c1b566cf80de
+Source Model Date : 1604333679 (2020/11/02)
+
+Ported Model Name : barney_dcp2_v1sc
+Ported Model Hash : c5733c4b939389f78bf33d2b8aae34a0
+Ported Model Date : 1752491402 (2025/07/14)

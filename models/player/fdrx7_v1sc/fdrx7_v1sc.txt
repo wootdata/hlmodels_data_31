@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fdrx7
+Source Model Hash : 770800178f06549350b78f34d99bc696
+Source Model Date : 1263870898 (2010/01/18)
+
+Ported Model Name : fdrx7_v1sc
+Ported Model Hash : d6ec417652c92097884a5c1785ecf7f5
+Ported Model Date : 1752491646 (2025/07/14)

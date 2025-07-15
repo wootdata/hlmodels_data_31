@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ugandaknacle
+Source Model Hash : 609fc4efde38cd12e8fff52b7b312f1f
+Source Model Date : 1579696486 (2020/01/22)
+
+Ported Model Name : ugandaknacle_v1sc
+Ported Model Hash : 1c8502f40567cac5c3b35a9f0313654d
+Ported Model Date : 1752492471 (2025/07/14)

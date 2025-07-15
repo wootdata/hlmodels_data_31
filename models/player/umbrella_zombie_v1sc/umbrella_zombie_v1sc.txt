@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : umbrella_zombie
+Source Model Hash : cfca46f9494079e73bebed36ccd4e37c
+Source Model Date : 1445936268 (2015/10/27)
+
+Ported Model Name : umbrella_zombie_v1sc
+Ported Model Hash : e49110a4cf8504407ccf8aa5d7d9cded
+Ported Model Date : 1752492476 (2025/07/14)

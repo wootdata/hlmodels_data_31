@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_dori_v2
+Source Model Hash : edde7839b5b8d9d1a8c1b8efe187c4e1
+Source Model Date : 1700398679 (2023/11/19)
+
+Ported Model Name : gi_dori_v2sc
+Ported Model Hash : e2b44fc6175747ddb58545196e659459
+Ported Model Date : 1752491708 (2025/07/14)

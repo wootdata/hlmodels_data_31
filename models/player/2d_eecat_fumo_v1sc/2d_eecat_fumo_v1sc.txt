@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_eecat_fumo
+Source Model Hash : 905f8b21c445de58932342d532a8e2a7
+Source Model Date : 1661789061 (2022/08/29)
+
+Ported Model Name : 2d_eecat_fumo_v1sc
+Ported Model Hash : b9feba79f8b8fabcb8b588bdd8c7d09a
+Ported Model Date : 1752491306 (2025/07/14)

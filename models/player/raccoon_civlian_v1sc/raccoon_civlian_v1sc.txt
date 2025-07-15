@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raccoon_civlian
+Source Model Hash : eeffd8297ff68d7ad902b00c2047c16b
+Source Model Date : 1269243637 (2010/03/22)
+
+Ported Model Name : raccoon_civlian_v1sc
+Ported Model Hash : f8a83b85ca9121239174aafda40cbecb
+Ported Model Date : 1752492184 (2025/07/14)

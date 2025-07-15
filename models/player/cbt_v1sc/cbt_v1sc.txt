@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cbt
+Source Model Hash : 28b698f0a7832be738e0bd91c131c51d
+Source Model Date : 1268230654 (2010/03/10)
+
+Ported Model Name : cbt_v1sc
+Ported Model Hash : db72120647818795a22abc8a58fe8f8e
+Ported Model Date : 1752491465 (2025/07/14)

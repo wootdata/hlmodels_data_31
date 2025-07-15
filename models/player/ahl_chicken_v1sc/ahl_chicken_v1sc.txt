@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_chicken
+Source Model Hash : 17863e790cc3f6eb6ae88c1ef62ea95a
+Source Model Date : 1700904418 (2023/11/25)
+
+Ported Model Name : ahl_chicken_v1sc
+Ported Model Hash : cc440bb56f24aa2abcb7026b2ecc2c55
+Ported Model Date : 1752491341 (2025/07/14)

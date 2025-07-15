@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_toy_freddy
+Source Model Hash : 199e746274f8c5ffce1bf2367c37a129
+Source Model Date : 1462798296 (2016/05/09)
+
+Ported Model Name : da_toy_freddy_v1sc
+Ported Model Hash : 9131ec4e450be4c6e41ae03e03d4fc4e
+Ported Model Date : 1752491588 (2025/07/14)

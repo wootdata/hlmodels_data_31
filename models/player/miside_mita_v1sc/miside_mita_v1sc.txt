@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : miside_mita
+Source Model Hash : 6469bfd360cf37de8674999197e0728f
+Source Model Date : 1738620872 (2025/02/03)
+
+Ported Model Name : miside_mita_v1sc
+Ported Model Hash : c2bd95bbf0c8e83ea1f55ce707fc8f52
+Ported Model Date : 1752492030 (2025/07/14)

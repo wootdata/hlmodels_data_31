@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : i_miroku
+Source Model Hash : f33869226e440f7c9a68739782bd38f7
+Source Model Date : 1628956325 (2021/08/14)
+
+Ported Model Name : i_miroku_v1sc
+Ported Model Hash : ed3008725bb3bb9cbe5e5eb94996f0e3
+Ported Model Date : 1752491855 (2025/07/14)

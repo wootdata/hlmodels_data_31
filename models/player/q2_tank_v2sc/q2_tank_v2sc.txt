@@ -1,0 +1,29 @@
+                               Q2-Tank
+
+The Tank creature from Quake 2.
+I just took the model from the game and added a Half-Life skeleton. (Thats why the model may look compressed!)
+
+
+   INSTALLATION:  UNZIP INTO  halflife\valve\models\player\Q2_Tank folder
+
+
+                             Author: MARQUIS 
+
+                     (m.haly@cwcom.net) 25/3/00
+ 
+              http://www.hlskins.free-online.co.uk/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q2_tank_v2
+Source Model Hash : 27d941ee407e7b2f0bde618d3fba2ab2
+Source Model Date : 1583377247 (2020/03/04)
+
+Ported Model Name : q2_tank_v2sc
+Ported Model Hash : f379bf53c9bc523e271d2548f25893c7
+Ported Model Date : 1752492177 (2025/07/14)

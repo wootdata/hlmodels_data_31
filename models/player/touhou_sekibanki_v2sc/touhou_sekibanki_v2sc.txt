@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_sekibanki_v2
+Source Model Hash : 0c688f3c610b2122bbf9b34b8503b6ec
+Source Model Date : 1627172844 (2021/07/24)
+
+Ported Model Name : touhou_sekibanki_v2sc
+Ported Model Hash : de69dedc3fc12fd9c89a6a3f2932917e
+Ported Model Date : 1752492448 (2025/07/14)

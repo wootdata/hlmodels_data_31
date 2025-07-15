@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : predteam_v2
+Source Model Hash : 3c6573313b569b8f7b7a0bdf863dc250
+Source Model Date : 1583663734 (2020/03/08)
+
+Ported Model Name : predteam_v2sc
+Ported Model Hash : 1ed011040ca6f99f7e3aae4284edaab7
+Ported Model Date : 1752492168 (2025/07/14)

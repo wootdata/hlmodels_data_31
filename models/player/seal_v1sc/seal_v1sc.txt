@@ -1,0 +1,36 @@
+================================================================
+Model Name              : Splinter Cell
+Model Author            : Morfeo <specialists@halflifeitalia.com>
+Skin Mapping            : Omega <specialists@halflifeitalia.com>
+Skin Author             : Splinter Cell Team, EdisLeado
+
+Model description       : Seal model
+
+The specialists: http://www.halflifeitalia.com/specialist/
+
+Additional Credits to   :
+
+* How to use this model *
+
+This is intended to be used with Half Life and with the mod "The Specialists".
+
+* Copyright / Permissions *
+
+Half Life is a registered trademark of Valve Software.
+
+Don't reproduce or modify the model without permission, don't use it in a total conversion/mod without permission, and don't use it for anything other than playing Half Life and having fun.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : seal
+Source Model Hash : 28c9382a1c4907bab84a0238b3715bad
+Source Model Date : 1269847843 (2010/03/29)
+
+Ported Model Name : seal_v1sc
+Ported Model Hash : a8d90f63fc8e9c55f8af1ea62c58d2c7
+Ported Model Date : 1752492256 (2025/07/14)

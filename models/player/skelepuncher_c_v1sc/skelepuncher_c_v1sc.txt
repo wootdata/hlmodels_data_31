@@ -1,0 +1,30 @@
+Skelepuncher Player Model
+=========================
+Began life as a plastic dancing puppet on strings but through some wizardry has become a fiercesome fighting living skeleton!
+
+Features:
+
+-Custom idle dancing animations
+-Custom physics baked death animations
+-Use of mic makes the jaw move
+-Colorable hands and shoes
+
+
+Created by TheCorp303
+
+www.the303.org
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : skelepuncher_color
+Source Model Hash : d185afbbef22fed09ab9bfcb5b8f3532
+Source Model Date : 1490317117 (2017/03/23)
+
+Ported Model Name : skelepuncher_c_v1sc
+Ported Model Hash : bcff1b3d8d50561762a3c451393fb10f
+Ported Model Date : 1752492278 (2025/07/14)

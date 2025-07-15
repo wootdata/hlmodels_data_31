@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gman_dcp
+Source Model Hash : ed8569b1854f3cc93ee05003b32c3f2c
+Source Model Date : 1630867434 (2021/09/05)
+
+Ported Model Name : gman_dcp_v1sc
+Ported Model Hash : 84f2c66c9285a6770f4db79859a65121
+Ported Model Date : 1752491729 (2025/07/14)

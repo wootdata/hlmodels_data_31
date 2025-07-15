@@ -1,0 +1,31 @@
+FK8888 's  Chinese zombie
+
+Model skinned and compiled : by fk8888 
+china 2008-09
+
+Do you like these model?. 
+I try to add my idle in this cs1.6 T leet mdl. 
+Not best, but I am very happy to use it in my CS 1.6 game .
+
+How to use£º
+copy "cstrike" document to eg£º C:\CS1.6\cstrike .
+
+
+Let's play happily with this cs1.6 Chinese zombie.
+
+Thank you for eveyone .Let's MOD our Game World Happily !
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chinese_zombie
+Source Model Hash : 7b0cf925f5bbbd547ab9b1617c7c178d
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : chinese_zombie_v1sc
+Ported Model Hash : 4a2c2fb8c875896feb927fa010ab4b31
+Ported Model Date : 1752491472 (2025/07/14)

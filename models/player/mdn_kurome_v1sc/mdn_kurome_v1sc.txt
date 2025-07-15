@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mdn_ankokuboshi_kurome
+Source Model Hash : 9e339f06dfd32bf9ada7a42d1b486c90
+Source Model Date : 1547467350 (2019/01/14)
+
+Ported Model Name : mdn_kurome_v1sc
+Ported Model Hash : 01fe910bf61f33f2e604dba55e7ae111
+Ported Model Date : 1752491997 (2025/07/14)

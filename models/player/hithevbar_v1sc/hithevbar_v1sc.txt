@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hithevbar
+Source Model Hash : 4c05c3165b5915f7f5d579bed04668c1
+Source Model Date : 1269095621 (2010/03/20)
+
+Ported Model Name : hithevbar_v1sc
+Ported Model Hash : a54971be8af95f0b999820f73572ddc5
+Ported Model Date : 1752491797 (2025/07/14)

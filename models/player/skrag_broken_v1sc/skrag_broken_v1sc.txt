@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : skrag_broken
+Source Model Hash : f2af43e6b80d6fae9a1efddaae5d4c3e
+Source Model Date : 1269865936 (2010/03/29)
+
+Ported Model Name : skrag_broken_v1sc
+Ported Model Hash : dd0c285f0c3f91c543694c23b9da957e
+Ported Model Date : 1752492280 (2025/07/14)

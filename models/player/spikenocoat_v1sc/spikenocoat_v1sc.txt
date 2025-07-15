@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spikenocoat
+Source Model Hash : 94fe7cb91b051fe041524d0c28943cd4
+Source Model Date : 1269959866 (2010/03/30)
+
+Ported Model Name : spikenocoat_v1sc
+Ported Model Hash : 47a47a5a0503b068f15bc2da51fadee5
+Ported Model Date : 1752492309 (2025/07/14)

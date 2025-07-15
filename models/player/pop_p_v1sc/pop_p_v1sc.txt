@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pop_p
+Source Model Hash : 3c856255ef97bee3cba71b09c066b2f7
+Source Model Date : 1523773993 (2018/04/14)
+
+Ported Model Name : pop_p_v1sc
+Ported Model Hash : d61feb25d6d4f42bb73ad911e40fe1bc
+Ported Model Date : 1752492162 (2025/07/14)

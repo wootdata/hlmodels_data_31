@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kmd_lucoa
+Source Model Hash : 7badef7de7033eddd4cb3c929a3e101a
+Source Model Date : 1590091029 (2020/05/21)
+
+Ported Model Name : kmd_lucoa_v1sc
+Ported Model Hash : 217d834e3b6009b4d33bb1f70f786747
+Ported Model Date : 1752491898 (2025/07/14)

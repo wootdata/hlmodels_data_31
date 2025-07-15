@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bluepolice
+Source Model Hash : 6fc402e6a09eab7223c2af299ded4407
+Source Model Date : 1237217258 (2009/03/16)
+
+Ported Model Name : bluepolice_v1sc
+Ported Model Hash : 609843cd890cc992f5000a1ce0f2ab9e
+Ported Model Date : 1752491438 (2025/07/14)

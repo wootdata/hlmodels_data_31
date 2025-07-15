@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kanna_halloween_vo
+Source Model Hash : b82f0bbff29d6874ce89fa1cd80e9c4a
+Source Model Date : 1703610796 (2023/12/26)
+
+Ported Model Name : kanna_ween_vo_v1sc
+Ported Model Hash : e8367c7e2e9e12e477518c0db0c78d30
+Ported Model Date : 1752491872 (2025/07/14)

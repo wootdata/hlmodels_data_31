@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nomble
+Source Model Hash : 06177087013e86c9658b6e2a0f14bf3e
+Source Model Date : 1265641289 (2010/02/08)
+
+Ported Model Name : nomble_v1sc
+Ported Model Hash : 7ca36642dbdb5e9857f3250f2f308eb0
+Ported Model Date : 1752492098 (2025/07/14)

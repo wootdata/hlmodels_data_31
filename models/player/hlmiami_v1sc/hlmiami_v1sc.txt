@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hlmiami
+Source Model Hash : 47d9b38f1701e3a64497050e71d5ff53
+Source Model Date : 1744097953 (2025/04/08)
+
+Ported Model Name : hlmiami_v1sc
+Ported Model Hash : 732b37c10d8d13bbc6a630331e3d4277
+Ported Model Date : 1752491806 (2025/07/14)

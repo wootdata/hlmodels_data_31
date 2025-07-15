@@ -1,0 +1,38 @@
+Type: 		Halflife Multiplayer Pluggin Model
+
+Name: 		Richard Aiken
+
+Release Date: 	Feb 19th, 2004
+
+Author:		The Condition Zero Team, (texture by |2usty)  
+
+E-Mail:		mrfranswa@yahoo.com
+
+Homepage: 	No  
+
+Files:		richard, richard.bmp, richard.txt 			
+
+Instructions:	Create a folder  Half-life\svencoop\models\player\richard
+                and just unzip all the file into there.
+
+		This model can be freely distributed as long as this text file is included, unmodified.
+		If you wish to  include it in a compilation, Mod or commerical product, please email me first.
+		If you want to do a skin for this model and are a good skinner ( i.e. better than me ) then email me, 
+                and I'll help you out with smd files and base skins.
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : richard
+Source Model Hash : 6434c9e34ad9ee66540cedbfd886f61f
+Source Model Date : 1579695630 (2020/01/22)
+
+Ported Model Name : richard_v1sc
+Ported Model Hash : ad64b82f1802094c70ef7ffeefc21ceb
+Ported Model Date : 1752492216 (2025/07/14)

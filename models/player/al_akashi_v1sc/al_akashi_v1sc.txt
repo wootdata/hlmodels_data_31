@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : al_akashi
+Source Model Hash : 626f22838d3c8200c02ef3628f77544d
+Source Model Date : 1580627695 (2020/02/01)
+
+Ported Model Name : al_akashi_v1sc
+Ported Model Hash : a918c26a0afe85588071caf63245d96e
+Ported Model Date : 1752491356 (2025/07/14)

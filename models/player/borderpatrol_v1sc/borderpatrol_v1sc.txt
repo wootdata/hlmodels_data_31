@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : borderpatrol
+Source Model Hash : d45a51b6ad864bcb2020a1cf1d07286f
+Source Model Date : 1268063283 (2010/03/08)
+
+Ported Model Name : borderpatrol_v1sc
+Ported Model Hash : 65b0945692716d26131ded001506c99c
+Ported Model Date : 1752491444 (2025/07/14)

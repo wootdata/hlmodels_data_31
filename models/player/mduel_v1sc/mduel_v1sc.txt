@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mduel
+Source Model Hash : 15889736c0eac33dd76f2cffd0fdb083
+Source Model Date : 1266071306 (2010/02/13)
+
+Ported Model Name : mduel_v1sc
+Ported Model Hash : 0f16ebe281d289d3aa899a40fda67bae
+Ported Model Date : 1752491997 (2025/07/14)

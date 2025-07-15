@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ipody
+Source Model Hash : 0af5d0dad01bbfd0c9ebe3d45ffe807b
+Source Model Date : 1567290537 (2019/08/31)
+
+Ported Model Name : ipody_v1sc
+Ported Model Hash : 2439f0bf2cdf0fac8a3f53df79d1161a
+Ported Model Date : 1752491851 (2025/07/14)

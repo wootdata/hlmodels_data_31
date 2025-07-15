@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_roshi
+Source Model Hash : c5289ba05f47fac52ea366c241cddfe8
+Source Model Date : 1461123418 (2016/04/19)
+
+Ported Model Name : da_roshi_v1sc
+Ported Model Hash : c9b8dc7fd42b8c329d14ab12f9d2afbb
+Ported Model Date : 1752491588 (2025/07/14)

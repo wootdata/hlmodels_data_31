@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jaco
+Source Model Hash : 86a696f2959990fb3e049f730d2c020e
+Source Model Date : 1445456742 (2015/10/21)
+
+Ported Model Name : jaco_v1sc
+Ported Model Hash : ccf016222d69af6fe91e867d1c24066d
+Ported Model Date : 1752491856 (2025/07/14)

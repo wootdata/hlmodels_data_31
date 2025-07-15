@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tidus
+Source Model Hash : ce271d4fe0e126be890b279c9e9bbfaa
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : tidus_v1sc
+Ported Model Hash : f7236efc89d16a20d580182d0a581c5c
+Ported Model Date : 1752492422 (2025/07/14)

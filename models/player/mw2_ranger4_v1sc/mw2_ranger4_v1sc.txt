@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_ranger4
+Source Model Hash : cb038344ea71ee4cb36acf26492fd1e6
+Source Model Date : 1278744258 (2010/07/09)
+
+Ported Model Name : mw2_ranger4_v1sc
+Ported Model Hash : b927726e118b7daf0d1c3a23958bd034
+Ported Model Date : 1752492053 (2025/07/14)

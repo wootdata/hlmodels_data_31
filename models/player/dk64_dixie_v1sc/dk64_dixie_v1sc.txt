@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dk64_dixie
+Source Model Hash : 19b5931c49a96d1cfdacc3e07811ec37
+Source Model Date : 1582788628 (2020/02/26)
+
+Ported Model Name : dk64_dixie_v1sc
+Ported Model Hash : 9def8912db99ddbcddbbe73578c1240c
+Ported Model Date : 1752491601 (2025/07/14)

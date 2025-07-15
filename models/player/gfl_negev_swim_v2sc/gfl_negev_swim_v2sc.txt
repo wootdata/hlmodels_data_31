@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gfl_negev_swim_v2
+Source Model Hash : 5dcd01c0108c5ff29d0e4ae6e77c8ee8
+Source Model Date : 1695928766 (2023/09/28)
+
+Ported Model Name : gfl_negev_swim_v2sc
+Ported Model Hash : d98c08fe8a783f02756b09756ae876da
+Ported Model Date : 1752491690 (2025/07/14)

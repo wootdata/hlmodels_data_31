@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hl_reconf
+Source Model Hash : f1c0187c8387fbcb38221548504b5bcc
+Source Model Date : 1656840931 (2022/07/03)
+
+Ported Model Name : hl_reconf_v1sc
+Ported Model Hash : fa0300201ccd1ea032681f8765033244
+Ported Model Date : 1752491808 (2025/07/14)

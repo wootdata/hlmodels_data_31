@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gf_super_sass_a
+Source Model Hash : bf9a2457f64b9bc7940c504bd1f81db7
+Source Model Date : 1643545438 (2022/01/30)
+
+Ported Model Name : gf_super_sass_a_v1sc
+Ported Model Hash : f572276cdb9c3d7d669d8fd1dc3182f2
+Ported Model Date : 1752491695 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fallout3
+Source Model Hash : 96a9b5b4afd7a83b408e6b3d5a098d48
+Source Model Date : 1263979790 (2010/01/20)
+
+Ported Model Name : fallout3_v1sc
+Ported Model Hash : 664e60fee8ff9e66f362471b29b6e845
+Ported Model Date : 1752491643 (2025/07/14)

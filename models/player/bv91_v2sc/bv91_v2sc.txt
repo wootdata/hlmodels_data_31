@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bv91_v2
+Source Model Hash : 523579a532498380d052b40400f93203
+Source Model Date : 1583818582 (2020/03/09)
+
+Ported Model Name : bv91_v2sc
+Ported Model Hash : f36b392e6c325e431d606ab1745e6dd9
+Ported Model Date : 1752491456 (2025/07/14)

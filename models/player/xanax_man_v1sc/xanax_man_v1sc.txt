@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xanax_man
+Source Model Hash : a1a614128b8b1959b4d232399eb0d760
+Source Model Date : 1616024760 (2021/03/17)
+
+Ported Model Name : xanax_man_v1sc
+Ported Model Hash : 2bb6e69ab87c4fe643db8ea2af1b942e
+Ported Model Date : 1752492515 (2025/07/14)

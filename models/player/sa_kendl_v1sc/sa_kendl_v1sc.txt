@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sa_kendl
+Source Model Hash : d438498c2b921b95f7b3fab0dffbec77
+Source Model Date : 1480889056 (2016/12/04)
+
+Ported Model Name : sa_kendl_v1sc
+Ported Model Hash : 04cb23e77e8a9692de988c0c3ef4b026
+Ported Model Date : 1752492241 (2025/07/14)

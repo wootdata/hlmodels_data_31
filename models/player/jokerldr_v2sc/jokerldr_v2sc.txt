@@ -1,0 +1,24 @@
+JOKER LEADERS Model for Halflife & Opposing Force **
+
+RESKIN BY Brian L. David   AKA   -No_One~  , Maelstrom ,Foolish George **
+Model: PUNISHER **
+skin bits taken from Kingpin **
+
+THIS IS A CLAN SKIN for the clan leaders at [JOKER] and for viewing only !!!not for THEFT! ** HEY DA GREAT-ONE   NOT!!! ** THIS WAS NOT DONE BY GUI-RULZ AND?OR VIC-RULZ it was done by ME!!! and [JOKER]LUTH and [JOKER]COSMO ***  NICE TRY KID ( SILVER , HELLRAISER, Da GREAT-ONE, etc you are all the same person and WONSWAP HAS VERIFIED THIS IN A EMAIL TO ME!!!) * Funny how all these names are connected to the same single WONSWAP registration. Funny how you think we are all to STUPID to investigate the truth  LOL.  GROW UP. **
+
+-No_One~ is   SAFE...
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jokerldr_v2
+Source Model Hash : 4f4353e64617d56b1bf2699948d66544
+Source Model Date : 1583909225 (2020/03/10)
+
+Ported Model Name : jokerldr_v2sc
+Ported Model Hash : b0f843bf4adb425ce6af78ba76860ba3
+Ported Model Date : 1752491865 (2025/07/14)

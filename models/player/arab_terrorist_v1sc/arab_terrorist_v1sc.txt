@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : arab_terrorist
+Source Model Hash : 48fc5ed1b94645fef5c560ee74cfc1cc
+Source Model Date : 1264597886 (2010/01/27)
+
+Ported Model Name : arab_terrorist_v1sc
+Ported Model Hash : 475d4121839bc339497197b0d392712e
+Ported Model Date : 1752491365 (2025/07/14)

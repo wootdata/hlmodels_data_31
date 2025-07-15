@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : weedhard
+Source Model Hash : 8362b49798f95e3ea78d1741d5cb4dcf
+Source Model Date : 1689582951 (2023/07/17)
+
+Ported Model Name : weedhard_v1sc
+Ported Model Hash : fc889cf97bcc5cf9aab7bed7065c76aa
+Ported Model Date : 1752492504 (2025/07/14)

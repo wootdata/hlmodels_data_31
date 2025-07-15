@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lara
+Source Model Hash : 87e87e56db527aa918761fcb0f6f5d3b
+Source Model Date : 1264013784 (2010/01/20)
+
+Ported Model Name : lara_v1sc
+Ported Model Hash : 6d0adc820f10726e70a5034e157ac927
+Ported Model Date : 1752491938 (2025/07/14)

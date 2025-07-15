@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nepgear_mazzstella_1
+Source Model Hash : ef5444d0115d9e4756c7d7511eaa9c84
+Source Model Date : 1567291393 (2019/08/31)
+
+Ported Model Name : nep_mazzstella_1_v1sc
+Ported Model Hash : fbec9324b5ad99437eace6a700c0b135
+Ported Model Date : 1752492089 (2025/07/14)

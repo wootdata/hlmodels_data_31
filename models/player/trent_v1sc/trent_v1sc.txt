@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trent
+Source Model Hash : 57cabf7cd1d58ebb6716618f32eb5a45
+Source Model Date : 1267639929 (2010/03/03)
+
+Ported Model Name : trent_v1sc
+Ported Model Hash : 3c252725efa9adecfe56c20b257d1cae
+Ported Model Date : 1752492457 (2025/07/14)

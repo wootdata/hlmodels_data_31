@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rena
+Source Model Hash : 906e605632c02514602190bc225a427b
+Source Model Date : 1587320016 (2020/04/19)
+
+Ported Model Name : rena_v1sc
+Ported Model Hash : 235cc340f7c1f1fdedd3f9cabba292e6
+Ported Model Date : 1752492199 (2025/07/14)

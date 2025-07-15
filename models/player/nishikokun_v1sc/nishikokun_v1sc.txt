@@ -1,0 +1,30 @@
+------------------------------------------------------
+Nishiko-kun (Tokyo Nishi-Kokubunji's Yuru-chara)
+for Sven Co-op 5.0 player model
+
+Yuru Kawa Bun!
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+07-10-2017 updated ver1.1 (Fixed Skin)
+06-10-2017 completed
+------------------------------------------------------
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nishikokun
+Source Model Hash : 380a35cf0573e979b233a9f45aa98a1e
+Source Model Date : 1507356806 (2017/10/06)
+
+Ported Model Name : nishikokun_v1sc
+Ported Model Hash : 44817820d0d89553c29a024d1713f935
+Ported Model Date : 1752492096 (2025/07/14)

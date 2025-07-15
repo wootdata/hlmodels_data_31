@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gfl_negev_sockless
+Source Model Hash : 1c00a5b04cc87f73aa1a1c15a0cadce1
+Source Model Date : 1692681683 (2023/08/21)
+
+Ported Model Name : gfl_negev_nosock_v1sc
+Ported Model Hash : b1c86d039ed157c4cf6bcaa0f2d5e058
+Ported Model Date : 1752491688 (2025/07/14)

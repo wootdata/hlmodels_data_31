@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wanted_cowboy_v2
+Source Model Hash : 1deab8945797e0b6f35ca9ebe2ce757f
+Source Model Date : 1528090901 (2018/06/03)
+
+Ported Model Name : wanted_cowboy_v2sc
+Ported Model Hash : 9271c49dd19e08c919e9842c7cf60132
+Ported Model Date : 1752492502 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pd2_chains
+Source Model Hash : 75ffddc89ce030d4da807c09b17e6d5d
+Source Model Date : 1402197422 (2014/06/07)
+
+Ported Model Name : pd2_chains_v1sc
+Ported Model Hash : f564d4a219151ff77b4916e4bd3bc3b3
+Ported Model Date : 1752492150 (2025/07/14)

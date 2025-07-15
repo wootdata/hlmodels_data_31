@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civilian_v4
+Source Model Hash : 486e4db12496adb8dfe6d321e877dada
+Source Model Date : 1591329694 (2020/06/04)
+
+Ported Model Name : civilian_v4sc
+Ported Model Hash : f7280902002fe65888a71eca6c18f25b
+Ported Model Date : 1752491477 (2025/07/14)

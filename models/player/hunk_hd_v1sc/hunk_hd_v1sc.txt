@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hunk_hd
+Source Model Hash : cc8d54e6a6b97bd96baf25d3a7b71af8
+Source Model Date : 1422938601 (2015/02/02)
+
+Ported Model Name : hunk_hd_v1sc
+Ported Model Hash : 5ec81c9e3f0c5edcaedf1ccb15d4c99d
+Ported Model Date : 1752491836 (2025/07/14)

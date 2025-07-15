@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sexy_rouge
+Source Model Hash : 2756e66131b9021008100582f7be24e0
+Source Model Date : 1480106450 (2016/11/25)
+
+Ported Model Name : sexy_rouge_v1sc
+Ported Model Hash : faa8b790a229fcfd83ef183931a47687
+Ported Model Date : 1752492260 (2025/07/14)

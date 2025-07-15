@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : megaman
+Source Model Hash : 906714ac0731a08aadd672bbcf0d409e
+Source Model Date : 1266243252 (2010/02/15)
+
+Ported Model Name : megaman_v1sc
+Ported Model Hash : 86943ba0aa1a8e8fb5a61d2fc4a87e89
+Ported Model Date : 1752491999 (2025/07/14)

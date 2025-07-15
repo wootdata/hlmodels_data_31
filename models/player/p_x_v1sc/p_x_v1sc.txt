@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : p_x
+Source Model Hash : b4dbb184381aadccb978e85f45c5a4cd
+Source Model Date : 1265723583 (2010/02/09)
+
+Ported Model Name : p_x_v1sc
+Ported Model Hash : 351cbb726560beb07c557c1392efff79
+Ported Model Date : 1752492175 (2025/07/14)

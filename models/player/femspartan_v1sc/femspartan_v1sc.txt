@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : femspartan
+Source Model Hash : f642137a25802e57ab5f2746feef86f7
+Source Model Date : 1474301891 (2016/09/19)
+
+Ported Model Name : femspartan_v1sc
+Ported Model Hash : bec2262562bf84ea25181606b1741878
+Ported Model Date : 1752491649 (2025/07/14)

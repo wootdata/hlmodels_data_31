@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : droid_cnc
+Source Model Hash : a48092ebdf91403851843449a97786ca
+Source Model Date : 1488120743 (2017/02/26)
+
+Ported Model Name : droid_cnc_v1sc
+Ported Model Hash : a32d1accb6b3830fcebbe4edc465eb77
+Ported Model Date : 1752491623 (2025/07/14)

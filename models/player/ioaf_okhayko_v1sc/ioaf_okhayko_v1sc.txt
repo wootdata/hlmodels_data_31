@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ioaf_okhayko
+Source Model Hash : c1f9de3128902b0f5e1f23d15c05e141
+Source Model Date : 1458849518 (2016/03/24)
+
+Ported Model Name : ioaf_okhayko_v1sc
+Ported Model Hash : fcfdcfb55c7b42723d1d4619461ae516
+Ported Model Date : 1752491849 (2025/07/14)

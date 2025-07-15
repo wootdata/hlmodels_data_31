@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_trunks
+Source Model Hash : ab6078ae0a2f9f15288d482648423f39
+Source Model Date : 1461123848 (2016/04/19)
+
+Ported Model Name : da_trunks_v1sc
+Ported Model Hash : 616293ba2ba3e8c374078422586351f6
+Ported Model Date : 1752491588 (2025/07/14)

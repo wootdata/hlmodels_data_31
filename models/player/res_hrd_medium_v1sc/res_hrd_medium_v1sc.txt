@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_succ_hrd_medium
+Source Model Hash : ac3b2509c5476bdfc04a99f885114a45
+Source Model Date : 1509835760 (2017/11/04)
+
+Ported Model Name : res_hrd_medium_v1sc
+Ported Model Hash : b784903558bf01aa85910a701702310f
+Ported Model Date : 1752492212 (2025/07/14)

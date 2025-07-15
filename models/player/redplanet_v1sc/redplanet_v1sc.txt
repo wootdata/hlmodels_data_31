@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : redplanet
+Source Model Hash : cf91da7d732e2f7b0132ea2c9a9f96bc
+Source Model Date : 1266048597 (2010/02/13)
+
+Ported Model Name : redplanet_v1sc
+Ported Model Hash : d8abd9bfc303a3f46b57705dc8522ab9
+Ported Model Date : 1752492195 (2025/07/14)

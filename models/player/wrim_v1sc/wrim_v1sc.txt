@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wrim
+Source Model Hash : cf7c2f0f750b36214c1b06b77ae123cb
+Source Model Date : 1263411850 (2010/01/13)
+
+Ported Model Name : wrim_v1sc
+Ported Model Hash : 89a64c5161ca8a92ab14420df3962c51
+Ported Model Date : 1752492512 (2025/07/14)

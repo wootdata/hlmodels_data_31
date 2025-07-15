@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_the_fist
+Source Model Hash : c798d2a4a5dbef8b05eb4c888b454a3b
+Source Model Date : 1700907788 (2023/11/25)
+
+Ported Model Name : ahl_the_fist_v1sc
+Ported Model Hash : c2f888fa22e596f98eae13c1645b05d5
+Ported Model Date : 1752491345 (2025/07/14)

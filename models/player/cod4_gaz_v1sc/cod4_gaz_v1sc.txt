@@ -1,0 +1,22 @@
+---------------------------
+Downloaded at fpsbanana.com
+---------------------------
+
+You can reupload this shit to other sites, just give proper credit. Or I will rape you.
+
+-Dawei
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod4_gaz
+Source Model Hash : b70149de6dbbe39570b681a5a6e4dcfd
+Source Model Date : 1285010640 (2010/09/20)
+
+Ported Model Name : cod4_gaz_v1sc
+Ported Model Hash : 679861b55d4cd9131173b5186b45f51e
+Ported Model Date : 1752491492 (2025/07/14)

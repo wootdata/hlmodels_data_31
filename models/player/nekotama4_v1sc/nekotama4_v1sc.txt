@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekotama4
+Source Model Hash : 456fb8fcd5444d34ba28c534a0fb0c9c
+Source Model Date : 1261526746 (2009/12/22)
+
+Ported Model Name : nekotama4_v1sc
+Ported Model Hash : d034a189573d381321682ad785b48c86
+Ported Model Date : 1752492087 (2025/07/14)

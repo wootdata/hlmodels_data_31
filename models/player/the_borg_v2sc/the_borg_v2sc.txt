@@ -1,0 +1,52 @@
+
+		   The_Borg
+
+The_Borg have arrived, Resistance is Futile!
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Model Info:
+
+Author        : Marquis
+Vertices      : 522
+Triangles     : 922
+Joints        : 27
+Materials     : 3 ..... 256 x 256, 128 x 128, 64 x 64
+Built time    : ?  
+Animations    : Valve
+Programs Used : MilkShape 3D , Paint Shop Pro 5, Half-life model viewer v1.23 
+
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+The borg body is based on the borg from the movie First Contact, The colour of the borg in the movie was different to the series, being more brown that black!
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+
+Hope you like it! 
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\The_Borg  folder
+
+
+         FYA    MARQUIS   for  skins (m.haly@cwcom.net) 12/12/99
+
+                    http://www.hlskins.free-online.co.uk/
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : the_borg_v2
+Source Model Hash : 53b3dc3a2d4ab366fffa37fe192e798c
+Source Model Date : 1591334816 (2020/06/04)
+
+Ported Model Name : the_borg_v2sc
+Ported Model Hash : 8f55416deca4fc63223dd7dd39d7969e
+Ported Model Date : 1752492412 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sao-lisbeth
+Source Model Hash : 1ac93d5655564324ec281df0d8375d87
+Source Model Date : 1465813324 (2016/06/13)
+
+Ported Model Name : sao-lisbeth_v1sc
+Ported Model Hash : a105df8fc6159e54517097defac558d2
+Ported Model Date : 1752492236 (2025/07/14)

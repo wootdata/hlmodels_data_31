@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mallcop
+Source Model Hash : 1bed9d6d89862575ca463e475c3f9de6
+Source Model Date : 1266054308 (2010/02/13)
+
+Ported Model Name : mallcop_v1sc
+Ported Model Hash : dcfafd6d105ddb9dd08c4cb87e5ed54f
+Ported Model Date : 1752491983 (2025/07/14)
