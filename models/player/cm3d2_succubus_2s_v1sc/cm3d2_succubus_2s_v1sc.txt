@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cm3d2_succubus_2s
+Source Model Hash : 14c9262c0899febd9aa6dc616fb26b22
+Source Model Date : 1630245216 (2021/08/29)
+
+Ported Model Name : cm3d2_succubus_2s_v1sc
+Ported Model Hash : fd70dae1fa5a7339a9de9139c9d2c34b
+Ported Model Date : 1758225731 (2025/09/18)
