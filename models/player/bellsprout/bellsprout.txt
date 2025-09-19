@@ -1,0 +1,37 @@
+07/02/2002
+================================================================
+Model Name              : Bellsprout
+installation directory  : SIERRA\Half-life\valve\models\player\Bellsprout
+Author                  : Oscar López Botton
+Email Address           : jicecperu@terra.com.pe
+Model description       : If you see the TV show, you know him. If you don't, it's a grass Pokémon.
+Additional Credits to   : Valve and Sierra (you know why...) and Chumbalum's software for the great editor
+
+Thanks to               : My computer, my dog, errmmmm, anybody else.
+================================================================
+* Play Information *
+
+New Sounds              : No
+CTF Skins               : No
+VWEP Support            : No
+
+
+* Construction *
+Poly Count              : Man I don't know
+Vert Count              : ....
+Skin Count              : 1
+Base                    : The skeleton from my bomberman model , the rest is new. 
+Editor used             : Milkshape 3d 1.5.9
+Known Bugs              : He is so small and hard to see. The other players will call you cheater if they can't see you.
+Build/Animation time    : 2 days (entire days)
+
+
+* How to use this model *
+
+Copy the files into "SIERRA\Half-life\valve\models\player\Bellsprout" folder
+
+* Copyright / Permissions *
+
+Half-Life is a trademark of Valve and Sierra. Do anything with the model.
+
+

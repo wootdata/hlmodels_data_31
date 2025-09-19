@@ -1,0 +1,16 @@
+<stupidinfo>
+
+Author: David Mercier
+Name: Psycho Steve
+E-mail: david@mercworks.net
+
+This is a model of my original character, Psycho Steve, for Half-Life.  He happens to be modelled after me, though he's a cartoon.  Pics of him can be found at www.mercworks.net.  This model is my love baby, you better like it.... punk.  
+
+Since original release of this model, I have repaired several animation problems, changed the skin to look signifigantly different, and have CUT the poly count from 398 to 386.  Beat that, you crappy preppy modellers, with your skill.  Pfft.
+
+Triangles: 386
+
+Place this model in this directory:
+\half-life\valve\models\player\Psycho_Steve
+
+</stupidinfo>

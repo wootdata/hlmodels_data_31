@@ -1,0 +1,17 @@
+Skinner/modeler: SlimReapeR
+Skin Name: r_anarki
+Model Used: anarki2 (base model:Punisher)
+
+
+This is the new and improved Anarki from Q3 Arena. He now has his board and looks more 
+like the Origianl model from Q3A.
+
+Installation of Plugin
+
+Create a folder called r_anarki  in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
